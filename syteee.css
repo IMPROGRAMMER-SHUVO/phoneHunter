@@ -1,0 +1,78 @@
+.card{
+  margin: 6px;
+  height: 20px;
+  box-shadow: 2px 5px 17px 4px gray;
+    border-radius: 53px;
+}
+.card:hover{
+  background-color: aqua;
+  background-image: url('');
+  transition: 2s;
+}
+#phone-Container{
+  height: 90px;
+}
+.card-img-top {
+    padding: 34px;
+    height: 300px;
+    width: 354px;
+
+border-radius: 50px;
+    /* text-align: center; */
+    /* float: left; */
+}
+#phonealldetais{
+  font-size: 20px;
+  
+}
+#redcolorfont{
+  color: red;
+  text-align: center;
+}
+#exampleModalLabel{
+  text-align: center;
+  color: rgb(221, 19, 53);
+}
+.modal-header{
+  background-color: aqua;
+}
+.container-fluid{
+  border: yellow;
+}
+.navbar {
+  background-color: rgb(122, 122, 221);}
+  .btn{
+    border-color: aliceblue;
+    color: aliceblue;
+  }
+  .Container {
+    margin: 94px;
+}
+.card-text{
+  text-justify: auto;
+}
+#spn{
+  color: red!important;
+}
+#myBtn{
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
+#idd{
+  background-color: aqua;
+}
